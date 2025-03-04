@@ -1,6 +1,6 @@
 # Lab 3 Part 2: Continuous Integration and Continuous Delivery (Jenkins)
 ## Objective   
-1. Get Familiar with Jenkins.
+1. Get Familiar with Jenkins..
 2. Understand the pipeline syntax used by Jenkins.
 3. Configure a continuous integration pipeline for a Jenkins job. 
 4. Configure a continuous deployment pipeline for a Jenkins job.
